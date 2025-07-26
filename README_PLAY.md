@@ -246,7 +246,7 @@ B2のボスとして登場し、しぶとく道を塞いでくる。
 Licensed under the PSF License Version 2.
   
 [Python license](https://docs.python.org/3/license.html)  
-- またはフォルダ内の [LICENSE-PSF.txt](./licenses/LICENSE-PSF.txt) をご確認ください。  
+- またはフォルダ内の [Python_LICENSE.txt](./licenses/Python_LICENSE.txt) をご確認ください。  
 
 ---
 
@@ -259,7 +259,7 @@ Pygameは、**GNU Lesser General Public License バージョン2.1 (LGPL v2.1)**
  
 詳細なライセンス条項については、以下を参照してください：  
 - [Pygame License](https://github.com/pygame/pygame/blob/main/docs/LGPL.txt)  
-- プロジェクト内の [LGPL.txt](./licenses/third_party/LGPL v2.1.txt)  
+- プロジェクト内の [LGPL.txt](./licenses/third_party/LGPL_v2.1.txt)  
 
 ---
 
