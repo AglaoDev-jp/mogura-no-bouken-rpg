@@ -89,7 +89,7 @@
 Licensed under the PSF License Version 2.
   
 [Python license](https://docs.python.org/3/license.html)  
-- またはフォルダ内の [LICENSE-PSF.txt](./licenses/LICENSE-PSF.txt) をご確認ください。  
+- またはフォルダ内の [Python_LICENSE.txt](./licenses/Python_LICENSE.txt) をご確認ください。  
 ※ コードのみであればライセンス添付は不要ですが、PyInstallerを使って実行ファイル化する際にはPythonのライセンス（PSF License）の添付が必要です。  
    (内部にPythonの一部が組み込まれるため)
 
@@ -116,7 +116,7 @@ LGPL v2.1 により、Pygameは商用・非商用を問わず自由に利用・�
 
 詳細なライセンス条項については、以下を参照してください：  
 - [Pygame License](https://github.com/pygame/pygame/blob/main/docs/LGPL.txt)  
-- プロジェクト内の [LGPL.txt](./licenses/third_party/LGPL v2.1.txt)  
+- プロジェクト内の [LGPL.txt](./licenses/third_party/LGPL_v2.1.txt)  
 
 > **備考:** PyInstallerでバンドルされた場合、ユーザーがライブラリを差し替える権利は担保されています。そのため、アプリケーション全体をオープンソースにする必要はありません。
 ### 静的リンクとの違い  
