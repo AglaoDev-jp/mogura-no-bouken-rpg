@@ -439,6 +439,7 @@ PyInstaller は GNU GPL ライセンスですが、例外規定により
 #### 音声提供・作成
 
 - **合成音声サービス：CoeFont（[https://CoeFont.cloud）](https://CoeFont.cloud）)**
+- **Voiced by https://CoeFont.cloud**
 - **使用プラン：Standard プラン**
 
 #### 使用音声一覧

@@ -6,7 +6,7 @@
 コード、シナリオ、READMEなどのテキスト、画像の作成において、OpenAIの対話型AI「ChatGPT」を使用しています。  
 このリポジトリでは、ゲームの**ソースコード**と**実行ファイル**を公開しています。  
 ゲームのあそびかたは[こちら](./README_PLAY.md)  
-ゲームファイル（実行ファイル）のダウンロードは[こちら]()
+ゲームファイル（実行ファイル）のダウンロードは[こちら](https://github.com/AglaoDev-jp/mogura-no-bouken-rpg/releases/download/mogura-no-bouken-rpg_v2/mogura-no-bouken-rpg_v2.zip)
 
 ---
 
@@ -331,7 +331,8 @@ Noto Sans JPは、SIL Open Font License (OFL) Version 1.1に基づき、以下�
 
 #### 音声提供・作成
 
-- **合成音声サービス：CoeFont（[https://CoeFont.cloud）](https://CoeFont.cloud）)**
+- **合成音声サービス：CoeFont[https://CoeFont.cloud](https://CoeFont.cloud)**
+- **Voiced by https://CoeFont.cloud**
 - **使用プラン：Standard プラン**
 
 #### 使用音声一覧
