@@ -91,7 +91,7 @@
 ### 著作権表示とライセンス
 
 ## 📂 ライセンスファイルまとめ[licenses](./licenses/)
-- Python [LICENSE-PSF.txt](./licenses/LICENSE-PSF.txt)
+- Python [LICENSE-PSF.txt](./licenses/Python_LICENSE.txt)
 - Pygame [LGPL_v2.1.txt](./licenses/third_party/LGPL_v2.1.txt) 
 - cryptography_LICENSE.APACHE [cryptography_LICENSE.APACHE](./licenses/third_party/cryptography_LICENSE.APACHE)  
 - cryptography_LICENSE.BSD [cryptography_LICENSE.BSD](./licenses/third_party/cryptography_LICENSE.BSD)  
@@ -108,7 +108,7 @@
 Licensed under the PSF License Version 2.
   
 [Python license](https://docs.python.org/3/license.html)  
-- またはフォルダ内の [LICENSE-PSF.txt](./licenses/LICENSE-PSF.txt) をご確認ください。  
+- またはフォルダ内の [LICENSE-PSF.txt](./licenses/Python_LICENSE.txt) をご確認ください。  
 ※ コードのみであればライセンス添付は不要ですが、PyInstallerを使って実行ファイル化する際にはPythonのライセンス（PSF License）の添付が必要です。  
    (内部にPythonの一部が組み込まれるため)
 
@@ -135,7 +135,7 @@ LGPL v2.1 により、Pygameは商用・非商用を問わず自由に利用・�
 
 詳細なライセンス条項については、以下を参照してください：  
 - [Pygame License](https://github.com/pygame/pygame/blob/main/docs/LGPL.txt)  
-- プロジェクト内の [LGPL.txt](./licenses/third_party/LGPL v2.1.txt)  
+- プロジェクト内の [LGPL_v2.1.txt](./licenses/third_party/LGPL_v2.1.txt)  
 
 > **備考:** PyInstallerでバンドルされた場合、ユーザーがライブラリを差し替える権利は担保されています。そのため、アプリケーション全体をオープンソースにする必要はありません。
 ### 静的リンクとの違い  
@@ -331,7 +331,7 @@ Noto Sans JPは、SIL Open Font License (OFL) Version 1.1に基づき、以下�
 
 #### 音声提供・作成
 
-- **合成音声サービス：CoeFont[https://CoeFont.cloud](https://CoeFont.cloud)**
+- **合成音声サービス：CoeFont**
 - **Voiced by https://CoeFont.cloud**
 - **使用プラン：Standard プラン**
 
@@ -645,9 +645,9 @@ distフォルダ内に作成された実行ファイルをそのまま配布す�
 
 ## このゲームのライセンス
 
-- **このゲームのコード**: MIT License。詳細は[LICENSE-CODE](./licenses/game/LICENSE-CODE)ファイルを参照してください。
-- **画像**: Creative Commons Attribution 4.0 (CC BY 4.0)。詳細は[LICENSE-IMAGES](./licenses/game/LICENSE-IMAGES)ファイルを参照してください。
-- **シナリオ**: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)。詳細は[LICENSE-SCENARIOS](./licenses/game/LICENSE-SCENARIOS)ファイルを参照してください。
+- **このゲームのコード**: MIT License。詳細は[LICENSE-CODE](./licenses/game/LICENSE-CODE.txt)ファイルを参照してください。
+- **画像**: Creative Commons Attribution 4.0 (CC BY 4.0)。詳細は[LICENSE-IMAGES](./licenses/game/LICENSE-IMAGES.txt)ファイルを参照してください。
+- **シナリオ**: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)。詳細は[LICENSE-SCENARIOS](./licenses/game/LICENSE-SCENARIOS.txt)ファイルを参照してください。
 
 ## ライセンスの簡単な説明
 

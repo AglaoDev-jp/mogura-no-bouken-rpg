@@ -293,7 +293,7 @@ B2のボスとして登場し、しぶとく道を塞いでくる。
 ### 著作権表示とライセンス
 
 ## 📂 ライセンスファイルまとめ[licenses](./licenses/)
-- Python [LICENSE-PSF.txt](./licenses/LICENSE-PSF.txt)
+- Python [LICENSE-PSF.txt](./licenses/Python_LICENSE.txt)
 - Pygame [LGPL_v2.1.txt](./licenses/third_party/LGPL_v2.1.txt) 
 - cryptography_LICENSE.APACHE [cryptography_LICENSE.APACHE](./licenses/third_party/cryptography_LICENSE.APACHE)  
 - cryptography_LICENSE.BSD [cryptography_LICENSE.BSD](./licenses/third_party/cryptography_LICENSE.BSD)  
@@ -309,7 +309,7 @@ B2のボスとして登場し、しぶとく道を塞いでくる。
 Licensed under the PSF License Version 2.
   
 [Python license](https://docs.python.org/3/license.html)  
-- またはフォルダ内の [LICENSE-PSF.txt](./licenses/LICENSE-PSF.txt) をご確認ください。  
+- またはフォルダ内の [LICENSE-PSF.txt](./licenses/Python_LICENSE.txt) をご確認ください。  
 
 ---
 
@@ -438,7 +438,7 @@ PyInstaller は GNU GPL ライセンスですが、例外規定により
 
 #### 音声提供・作成
 
-- **合成音声サービス：CoeFont（[https://CoeFont.cloud）](https://CoeFont.cloud）)**
+- **合成音声サービス：CoeFont**
 - **Voiced by https://CoeFont.cloud**
 - **使用プラン：Standard プラン**
 
@@ -469,9 +469,9 @@ PyInstaller は GNU GPL ライセンスですが、例外規定により
 
 ## このゲームのライセンス
 
-- **このゲームのコード**: MIT License。詳細は[LICENSE-CODE](./licenses/game/LICENSE-CODE)ファイルを参照してください。
-- **画像**: Creative Commons Attribution 4.0 (CC BY 4.0)。詳細は[LICENSE-IMAGES](./licenses/game/LICENSE-IMAGES)ファイルを参照してください。
-- **シナリオ**: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)。詳細は[LICENSE-SCENARIOS](./licenses/game/LICENSE-SCENARIOS)ファイルを参照してください。
+- **このゲームのコード**: MIT License。詳細は[LICENSE-CODE](./licenses/game/LICENSE-CODE.txt)ファイルを参照してください。
+- **画像**: Creative Commons Attribution 4.0 (CC BY 4.0)。詳細は[LICENSE-IMAGES](./licenses/game/LICENSE-IMAGES.txt)ファイルを参照してください。
+- **シナリオ**: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)。詳細は[LICENSE-SCENARIOS](./licenses/game/LICENSE-SCENARIOS.txt)ファイルを参照してください。
 
 ## ライセンスの簡単な説明
 
